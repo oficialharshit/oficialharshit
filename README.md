@@ -98,5 +98,5 @@ To become a strong **AI/ML Engineer** by developing strong programming fundament
 ## 📫 Connect With Me
 
 - 💻 GitHub: [@oficialharshit](https://github.com/oficialharshit)
-- 🔗 LinkedIn: Add your LinkedIn profile here
-- 📧 Email: Add your email here
+
+
