@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 I'm **Harshit**, a BTech student specializing in **Artificial Intelligence & Machine Learning**.
 
@@ -6,18 +6,18 @@ I'm passionate about Machine Learning, Python, and building practical projects t
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 BTech student specializing in **Artificial Intelligence & Machine Learning**
-- 🐍 Working primarily with **Python**
-- 🤖 Interested in **Machine Learning & Deep Learning**
-- 📊 Enjoy working with data and building ML models
-- 💻 Practicing **Data Structures & Algorithms** on LeetCode
-- 🚀 Learning by building practical projects
+-  BTech student specializing in **Artificial Intelligence & Machine Learning**
+-  Working primarily with **Python**
+-  Interested in **Machine Learning & Deep Learning**
+-  Enjoy working with data and building ML models
+-  Practicing **Data Structures & Algorithms** on LeetCode
+-  Learning by building practical projects
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming
 - Python
@@ -45,9 +45,9 @@ I'm passionate about Machine Learning, Python, and building practical projects t
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🎬 Movie Recommendation System
+###  Movie Recommendation System
 
 A movie recommendation system that recommends movies based on user preferences.
 
@@ -55,7 +55,7 @@ A movie recommendation system that recommends movies based on user preferences.
 
 ---
 
-### 🩺 Disease Prediction
+###  Disease Prediction
 
 A Machine Learning project that predicts the likelihood of a disease based on input features.
 
@@ -63,7 +63,7 @@ A Machine Learning project that predicts the likelihood of a disease based on in
 
 ---
 
-### 📧 Spam Classifier
+###  Spam Classifier
 
 A Machine Learning-based text classification project that identifies whether a message is spam or legitimate.
 
@@ -71,7 +71,7 @@ A Machine Learning-based text classification project that identifies whether a m
 
 ---
 
-### 💻 LeetCode Solutions
+###  LeetCode Solutions
 
 My collection of LeetCode solutions while improving my **Data Structures & Algorithms** and problem-solving skills.
 
@@ -79,24 +79,24 @@ My collection of LeetCode solutions while improving my **Data Structures & Algor
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 🤖 Neural Networks & CNNs
-- 💻 Data Structures & Algorithms
-- 🚀 Building and deploying AI applications
+-  Deep Learning
+-  Computer Vision
+-  Neural Networks & CNNs
+-  Data Structures & Algorithms
+-  Building and deploying AI applications
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 To become a strong **AI/ML Engineer** by developing strong programming fundamentals and building real-world projects in Machine Learning, Deep Learning, and Computer Vision.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💻 GitHub: [@oficialharshit](https://github.com/oficialharshit)
+-  GitHub: [@oficialharshit](https://github.com/oficialharshit)
 
 
